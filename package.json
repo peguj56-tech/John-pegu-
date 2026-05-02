@@ -1,0 +1,25 @@
+{
+  "name": "blyster-website",
+  "version": "1.0.0",
+  "description": "Blyster Private Limited - Digital Marketing Agency Website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^14.0.0",
+    "framer-motion": "^10.16.4",
+    "@emailjs/browser": "^4.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.32",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.52.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
